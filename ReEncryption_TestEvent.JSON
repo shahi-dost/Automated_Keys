@@ -1,0 +1,6 @@
+{
+  "bucket_name": "rotatekeysgenstorage",
+  "test_mode": true,
+  "date": "2024-08-23",
+  "description": "Test event to simulate daily key rotation and re-encryption"
+}
